@@ -1,7 +1,7 @@
 const { chromium } = require('playwright');
-// const randomNames = ['Shadan sid', 'Faheem Ansari', 'Saher Saleem', 'Sharukh Saif']
-const randomNames = ['Shadan sid',]
-// const randomNames = ['Shadan sid', 'Faheem Ansari']
+
+const randomNames = ['Danish','john', 'richard','naina','abdul']
+
 
 randomNames.forEach(element => {
     (async () => {
