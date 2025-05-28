@@ -1,0 +1,1 @@
+This automation script simulates the addition of a specified number (n) of fake or dummy participants to a Zoom meeting. It is intended for testing, load simulation, or demonstration purposes, and not for misuse or disruption of actual meetings.
